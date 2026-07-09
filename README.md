@@ -11,7 +11,6 @@
   <a href="https://www.linkedin.com/in/abdulloh-mirzakhojayev/"><img src="https://img.shields.io/badge/LinkedIn-abdulloh--mirzakhojayev-0A66C2?style=flat" alt="LinkedIn"/></a>
 </p>
 
-<br/>
 
 ## Education
 <table>
@@ -27,7 +26,6 @@
   </tr>
 </table>
 
-<br/>
 
 ## Tech Stack
 <table>
@@ -70,7 +68,6 @@
   </tr>
 </table>
 
-<br/>
 
 ## Featured Projects
 <table>
@@ -92,7 +89,6 @@
   </tr>
 </table>
 
-<br/>
 
 ## Get in Touch
 
