@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdulloh 👋</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer</b> — deep learning models, ML pipelines, and AI projects. Computer Vision · NLP · RAG
+  <b>Machine Learning Engineer</b> | deep learning models, ML pipelines, and AI projects | Computer Vision · NLP · RAG
 </p>
 
 <p align="center">📍 Tashkent, Uzbekistan</p>
@@ -20,8 +20,8 @@
     <th align="center">Years</th>
   </tr>
   <tr>
-    <td><b>PDP University</b> — Tashkent, Uzbekistan</td>
-    <td>B.Sc. in Software Engineering — Artificial Intelligence Applications &amp; Solutions</td>
+    <td><b>PDP University</b>, Tashkent, Uzbekistan</td>
+    <td>B.Sc. in Software Engineering - Artificial Intelligence Applications &amp; Solutions</td>
     <td align="center">2024–2028</td>
   </tr>
 </table>
@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Mirzakhojayev/ai-rag-chatbot"><b>AI RAG Chatbot</b></a></td>
-    <td>Serverless RAG platform — upload PDFs, index them semantically, and chat with an assistant grounded in your documents</td>
+    <td>Serverless RAG platform: upload PDFs, index them semantically, and chat with an assistant grounded in your documents</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Mirzakhojayev/audioCNN"><b>AudioCNN</b></a></td>
@@ -92,6 +92,6 @@
 
 ## Get in Touch
 
-The fastest way to reach me is [email](mailto:mirzakhojayevabdulloh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abdulloh-mirzakhojayev/) — always happy to talk ML, open source, or interesting problems.
+The fastest way to reach me is [email](mailto:mirzakhojayevabdulloh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abdulloh-mirzakhojayev/), always happy to talk ML, open source, or interesting problems.
 
 ---
