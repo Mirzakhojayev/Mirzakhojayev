@@ -76,16 +76,21 @@
     <th align="left">What it is</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Mirzakhojayev/ai-rag-chatbot"><b>AI RAG Chatbot</b></a></td>
-    <td>Serverless RAG platform: upload PDFs, index them semantically, and chat with an assistant grounded in your documents</td>
+    <td><a href="https://github.com/Mirzakhojayev/t2sql-uz-qwen3.5-4B"><b>Text-to-SQL for Uzbek</b></a></td>
+    <td>Qwen3.5-4B LoRA adapter that writes PostgreSQL from English, Russian and Uzbek questions
+        (+8.4 points on BIRD dev), with Uzbek and Russian versions of BIRD for evaluation</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Mirzakhojayev/Semantic-Segmentation-Cityscapes"><b>SegFormer Urban Segmentation</b></a></td>
+    <td>Transformer-based semantic segmentation of street scenes across 19 classes (Cityscapes)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Mirzakhojayev/audioCNN"><b>AudioCNN</b></a></td>
     <td>ResNet-34-style CNN built from scratch in PyTorch, classifying audio into 50 environmental categories (ESC-50)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Mirzakhojayev/Semantic-Segmentation-Cityscapes"><b>SegFormer Urban Segmentation</b></a></td>
-    <td>Transformer-based semantic segmentation of street scenes across 19 classes (Cityscapes)</td>
+    <td><a href="https://github.com/Mirzakhojayev/ai-rag-chatbot"><b>AI RAG Chatbot</b></a></td>
+    <td>Serverless RAG platform: upload PDFs, index them semantically, and chat with an assistant grounded in your documents</td>
   </tr>
 </table>
 
